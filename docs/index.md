@@ -164,13 +164,39 @@ ngram_count_1_2|decision_tree|0.8946459412780656|0.8338278931750742|0.9825174825
 Generated automatically:
 1. `outputs/best_model_summary.csv`
 
+| Best Feature Method | Best Classifier | Accuracy | Precision_Sports| Recall_Sports |F1_Sports |
+n-gram_count_1_2|knn|0.9671848013816926|0.9651567944250871|0.9685314685314685|0.9668411867364747
+| Best Feature Method | Best Classifier | Accuracy | Precision_Sports | Recall_Sports | F1_Sports |
+|---|---|---:|---:|---:|---:|
+| n-gram_count_1_2 | knn | 0.9671848013816926 | 0.9651567944250871 | 0.9685314685314685 | 0.9668411867364747 |
+
 ### 8.2 Confusion matrices
 Generated per combination:
 1. `outputs/cm_<feature>__<classifier>.csv`
 
 ### 8.3 Error analysis files
 1. `outputs/all_misclassifications.csv`
-2. `outputs/best_model_errors.csv`
+### 8.4 Best model errors
+Generated for the best-performing combination:
+1. `outputs/best_model_errors.csv`
+
+| Feature Method | Classifier | Actual | Predicted | Headline |
+|---|---|---|---|---|
+| ngram_count_1_2 | knn | politics | sports | Sri Lanka: SJB's Sajith Premadasa nominated for interim presidency |
+| ngram_count_1_2 | knn | sports | politics | 'If they call, I will be ready': Sprint legend Usain Bolt might return at the 2028 LA Olympics for cricket |
+| ngram_count_1_2 | knn | politics | sports | Explained: Why majority governments are holding floor tests |
+| ngram_count_1_2 | knn | sports | politics | Used soft drink bottles being refilled as waste-management procedure, not for re-sale, says DDCA in response to viral video |
+| ngram_count_1_2 | knn | sports | politics | Javelin thrower Sachin Yadav included in RTP of Athletics Integrity Unit |
+| ngram_count_1_2 | knn | sports | politics | Tearful LeBron James keeps retirement talk simmering in possible Cleveland farewell |
+| ngram_count_1_2 | knn | sports | politics | Daniel Naroditsky's autopsy reveals cause of death: popular streamer died of abnormal heartbeat |
+| ngram_count_1_2 | knn | sports | politics | Daniel Naroditsky had multiple drugs in system at time of death, toxicology report says |
+| ngram_count_1_2 | knn | sports | politics | How the Chinese have approached the puzzle of the unbeatable An Se-young |
+| ngram_count_1_2 | knn | politics | sports | Bangladesh sports advisor: 'Team will not play in India in any circumstances' |
+| ngram_count_1_2 | knn | politics | sports | SP-BSP splitsville on the anvil, who'll cut loose first |
+| ngram_count_1_2 | knn | sports | politics | Why does Delhi monopolise major sporting events even as pollution and player welfare are always genuine concerns |
+| ngram_count_1_2 | knn | politics | sports | Why 'Mullah Mulayam' tag didn't hurt |
+| ngram_count_1_2 | knn | politics | sports | Modi mantra now resonates world over: Yogi Adityanath |
+
 
 ## 9. Interpretation and Analysis
 ### 9.1 Expected feature behavior
