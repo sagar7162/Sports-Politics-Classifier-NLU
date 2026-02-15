@@ -4,10 +4,6 @@ This project solves binary text classification:
 - `sports`
 - `politics`
 
-The assignment constraint is respected:
-- machine learning models can come from libraries,
-- feature extraction (`BoW`, `TF-IDF`, `n-grams`) is implemented from scratch.
-
 ## Repository structure
 - `code.ipynb`: main experiment pipeline (custom vectorizers + 9 model-feature combinations)
 - `docs/index.md`: detailed report for GitHub Pages submission
