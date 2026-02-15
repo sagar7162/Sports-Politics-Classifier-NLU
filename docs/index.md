@@ -164,8 +164,6 @@ ngram_count_1_2|decision_tree|0.8946459412780656|0.8338278931750742|0.9825174825
 Generated automatically:
 1. `outputs/best_model_summary.csv`
 
-| Best Feature Method | Best Classifier | Accuracy | Precision_Sports| Recall_Sports |F1_Sports |
-n-gram_count_1_2|knn|0.9671848013816926|0.9651567944250871|0.9685314685314685|0.9668411867364747
 | Best Feature Method | Best Classifier | Accuracy | Precision_Sports | Recall_Sports | F1_Sports |
 |---|---|---:|---:|---:|---:|
 | n-gram_count_1_2 | knn | 0.9671848013816926 | 0.9651567944250871 | 0.9685314685314685 | 0.9668411867364747 |
