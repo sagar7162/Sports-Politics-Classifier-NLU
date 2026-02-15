@@ -44,9 +44,9 @@ Scraping code (already present in earlier notebook work) collects headline text 
 ## 4. Dataset Description and Analysis
 ### 4.1 Raw dataset size
 Based on current CSV files in this repository:
-1. Politics rows: 1450
+1. Politics rows: 1660
 2. Sports rows: 1475
-3. Total rows: 2925
+3. Total rows: 3135
 
 ### 4.2 Data quality observations
 1. Missing headlines: none observed in raw files.
@@ -210,7 +210,6 @@ Generated for the best-performing combination:
 ### 9.3 Top terms
 The notebook exports weighted terms per combination:
 1. `outputs/top_terms_all_models.csv`
-
 
 ## 10. Limitations of the System
 1. Headline-only input lacks full article context.
