@@ -70,8 +70,8 @@ Based on current CSV files in this repository:
 These values are exported to:
 1. `outputs/dataset_stats_custom.csv`
 
-## 5. Feature Representation (From Scratch)
-No library vectorizer is used. A custom `ScratchVectorizer` class is implemented in `code.ipynb`.
+## 5. Feature Representation
+A custom `ScratchVectorizer` class is implemented in `code.ipynb`.
 
 ### 5.1 Tokenization
 Regex token pattern:
@@ -148,8 +148,6 @@ Total runs:
 After running all notebook cells, the main table is generated at:
 1. `outputs/model_comparison_9combos.csv`
 
-Use that file to fill the report table below.
-
 | Feature Method | Classifier | Accuracy | Precision (sports) | Recall (sports) | F1 (sports) | Train Time (s) | Inference Time (s) | Vocab Size |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 ngram_count_1_2|knn|0.9671848013816926|0.9651567944250871|0.9685314685314685|0.9668411867364747|0.0013229000005594571|0.033539899999595946|4848
@@ -189,7 +187,6 @@ Generated per combination:
 The notebook exports weighted terms per combination:
 1. `outputs/top_terms_all_models.csv`
 
-This helps justify that the classifier is learning topic-relevant patterns rather than random artifacts.
 
 ## 10. Limitations of the System
 1. Headline-only input lacks full article context.
@@ -200,19 +197,9 @@ This helps justify that the classifier is learning topic-relevant patterns rathe
 6. No probability calibration for confidence-aware decisions.
 7. Single holdout split gives limited uncertainty estimation.
 
-## 14. GitHub Pages Submission
-1. Push repository to GitHub.
-2. Go to `Settings -> Pages`.
-3. Choose `Deploy from a branch`.
-4. Select branch `main` and folder `/docs`.
-5. Save and wait for deployment.
-6. Verify that this page and output references are visible.
-
-## 15. Conclusion
+## 11. Conclusion
 The project delivers a complete, assignment-compliant binary classifier for sports vs politics headlines with:
 1. Custom feature extraction from scratch (BoW, TF-IDF, n-grams),
 2. Three machine learning classifiers,
 3. Full 9-combination quantitative comparison,
-4. Reproducible notebook implementation and GitHub Pages-ready documentation.
 
-This setup is suitable for submission and can be extended for additional analysis if needed.

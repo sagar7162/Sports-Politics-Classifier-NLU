@@ -49,14 +49,3 @@ Running `code.ipynb` generates:
 - `outputs/cm_<feature>__<classifier>.csv` (9 files)
 - `outputs/top_terms_<feature>__<classifier>.csv` (9 files)
 
-## Anti-plagiarism notes
-- No usage of `CountVectorizer` / `TfidfVectorizer`.
-- Vocabulary building, document frequency, TF-IDF weighting, and sparse matrix assembly are written manually in `code.ipynb`.
-- Report text is tailored to the scraped dataset used in this repository.
-
-## GitHub Pages
-1. Push this folder to GitHub.
-2. Open `Settings -> Pages`.
-3. Choose `Deploy from a branch`.
-4. Select `main` branch and `/docs` folder.
-5. Save and wait for publish.
