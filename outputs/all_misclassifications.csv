@@ -1,0 +1,296 @@
+feature_method,classifier,actual,predicted,headline
+bow_unigram,decision_tree,politics,sports,7
+bow_unigram,decision_tree,politics,sports,'gujarat won't allow patkar entry': shah amid buzz of aap plans
+bow_unigram,decision_tree,politics,sports,"jharkhand governor in delhi, jmm cries foul"
+bow_unigram,decision_tree,politics,sports,sri lanka: sjb's sajith premadasa nominated for interim presidency
+bow_unigram,decision_tree,politics,sports,"monsoon session over, india focuses on war plan ahead of mumbai meet"
+bow_unigram,decision_tree,politics,sports,ham: remark backing any nitish return to nda 'misinterpreted'
+bow_unigram,decision_tree,politics,sports,"govt flats to rohingya refugees trigger row, home ministry clarifies"
+bow_unigram,decision_tree,politics,sports,nitish kumar: running strong despite twists and turns
+bow_unigram,decision_tree,politics,sports,explained: why majority governments are holding floor tests
+bow_unigram,decision_tree,politics,sports,brs to oppose uniform civil code bill: kcr
+bow_unigram,decision_tree,politics,sports,"rohingya trying to use assam as transit state to sneak into delhi, kashmir: himanta biswa sarma"
+bow_unigram,decision_tree,politics,sports,9
+bow_unigram,decision_tree,politics,sports,"bihar: first in 30 years, md shahabuddin's kin out of rjd panels"
+bow_unigram,decision_tree,politics,sports,will seek public opinion on alliance's new logo: uddhav thackeray
+bow_unigram,decision_tree,politics,sports,"real loot is in sale of red tomatoes, cylinders: ashok gehlot"
+bow_unigram,decision_tree,politics,sports,maya hits out at centre over pfi ban
+bow_unigram,decision_tree,politics,sports,1
+bow_unigram,decision_tree,politics,sports,"government: don't agree with press freedom index, methodology questionable"
+bow_unigram,decision_tree,politics,sports,sachin pilot keeps alive suspense on next move
+bow_unigram,decision_tree,politics,sports,"bommai, dks, other netas on temple run day before voting"
+bow_unigram,decision_tree,politics,sports,soren government in jharkhand to seek trust vote on monday to dispel 'uncertainty'
+bow_unigram,decision_tree,politics,sports,11
+bow_unigram,decision_tree,politics,sports,ajay maken unwilling to continue as congress's rajasthan in-charge
+bow_unigram,decision_tree,politics,sports,6
+bow_unigram,decision_tree,politics,sports,news
+bow_unigram,decision_tree,politics,sports,proceedings washed out for third day; irani hits out at rahul
+bow_unigram,decision_tree,sports,politics,"indian football restart: isl set to resume from feb 14, says sports minister; 4 clubs yet to commit"
+bow_unigram,decision_tree,politics,sports,"upset with ajit entry, shinde's mlas say 'will get half a bread instead of one now'"
+bow_unigram,decision_tree,politics,sports,"outgoing bihar speaker did not want a dalit to preside over house, says his deputy"
+bow_unigram,decision_tree,politics,sports,"border row: meeting in delhi achieved nothing, favoured karnataka, claims uddhav thackeray"
+bow_unigram,decision_tree,politics,sports,"an ed that promises to 'rule, not raid'"
+bow_unigram,decision_tree,politics,sports,4 cong mps suspended from ls for entire session as oppn continues to demand price rise debate
+bow_unigram,decision_tree,sports,politics,"after visits from rcb & rr, maharashtra cricket association pitch pune stadium for ipl 2026 matches"
+bow_unigram,decision_tree,politics,sports,win for edappadi palaniswami as sc upholds madras hc order on aiadmk leadership
+bow_unigram,decision_tree,politics,sports,how politics behind darbhanga aiims has delayed its construction
+bow_unigram,decision_tree,politics,sports,kerala: cpm makes covid hero shailaja reject magsaysay award
+bow_unigram,decision_tree,politics,sports,ys jagan mohan reddy calls n chandrababu naidu jilted power lover
+bow_unigram,decision_tree,politics,sports,aap govt will sponsor ayodhya trip of lord ram devotees if voted to power in gujarat: kejriwal
+bow_unigram,decision_tree,politics,sports,pre-planned strategy from treasury benches: priyanka chaturvedi on suspension of mps
+bow_unigram,decision_tree,politics,sports,"not just nitish kumar, former ally jitan ram manjhi also objects to opposition’s india name"
+bow_unigram,decision_tree,politics,sports,"tejashwi yadav: born with a silver spoon, earning his spurs"
+bow_unigram,decision_tree,politics,sports,india to contest elections together ‘as far as possible’
+bow_unigram,decision_tree,sports,politics,retro-sport: when fans flocked to russian house to watch india’s 1st chess grandmaster take on india’s 2nd gm
+bow_unigram,decision_tree,politics,sports,"major bengal cabinet, tmc organisational reshuffle in offing"
+bow_unigram,decision_tree,politics,sports,'jeetega bharat' tagline for opposition alliance india
+bow_unigram,decision_tree,sports,politics,‘they’re not party animals’: stuart broad rubbishes claims about england’s ‘drinking culture’ after 1-4 ashes drubbing
+bow_unigram,decision_tree,politics,sports,how odisha train accident got politicised
+bow_unigram,decision_tree,politics,sports,criteria and frameworks are being decided for implementation of guarantees: priyank kharge
+bow_unigram,decision_tree,politics,sports,why ‘mullah mulayam’ tag didn’t hurt
+bow_unigram,decision_tree,sports,politics,syed modi international demoted to super 100 from super 300 under new bwf reforms
+bow_unigram,decision_tree,politics,sports,time has come to become 'ruler society': mayawati's call to bahujan samaj
+bow_unigram,decision_tree,politics,sports,"5 mps of cpi, cpm to visit strife-torn manipur for 3 days to assess situation"
+bow_unigram,decision_tree,politics,sports,modi mantra now resonates world over: yogi adityanath
+bow_unigram,decision_tree,politics,sports,will tejashwi yadav act against nitish kumar-baiter rjd mla sudhakar singh
+bow_unigram,decision_tree,politics,sports,"boost for uddhav thackeray, hc rules in favour of rutuja latke, pulls up bmc"
+bow_unigram,decision_tree,politics,sports,"rajasthan: sachin pilot takes a dig at ashok gehlot, says rahul gandhi's praise shouldn't upset anyone"
+bow_unigram,decision_tree,politics,sports,"for old guard, a make-or-break battle in rajasthan, madhya pradesh"
+bow_unigram,decision_tree,politics,sports,bihar: is nitish kumar set for another u-turn
+bow_unigram,decision_tree,politics,sports,over 1800 ngos' fcra licences cancelled in 3 yrs: government
+bow_unigram,random_forest,politics,sports,"monsoon session over, india focuses on war plan ahead of mumbai meet"
+bow_unigram,random_forest,sports,politics,‘i tell myself i’m not that important’: kl rahul opens up on retirement and injury battles
+bow_unigram,random_forest,sports,politics,"inside sanju samson’s childhood: fisherman grandfather’s wisdom, kerala sea and a village that believed"
+bow_unigram,random_forest,sports,politics,"used soft drink bottles being refilled as waste-management procedure, not for re-sale, says ddca in response to viral video"
+bow_unigram,random_forest,sports,politics,all-rounder shivam dube taking batting lessons into bowling
+bow_unigram,random_forest,sports,politics,"isl to be streamed on fancode, question remains over television broadcaster"
+bow_unigram,random_forest,sports,politics,javelin thrower sachin yadav included in rtp of athletics integrity unit
+bow_unigram,random_forest,sports,politics,tearful lebron james keeps retirement talk simmering in possible cleveland farewell
+bow_unigram,random_forest,sports,politics,daniel naroditsky’s autopsy reveals cause of death: popular streamer died of abnormal heartbeat
+bow_unigram,random_forest,sports,politics,"daniel naroditsky had multiple drugs in system at time of death, toxicology report says"
+bow_unigram,random_forest,sports,politics,how the chinese have approached the puzzle of the unbeatable an se-young
+bow_unigram,random_forest,sports,politics,"move over, beth harmon: new documentary on judit polgar details the gambits that shaped a queen"
+bow_unigram,random_forest,sports,politics,‘i prefer arshdeep over harshit in any circumstances’: robin uthappa
+bow_unigram,random_forest,sports,politics,10 years of bumrah | from jet lag to centre stage: the night jasprit bumrah announced himself
+bow_unigram,random_forest,politics,sports,india to contest elections together ‘as far as possible’
+bow_unigram,random_forest,sports,politics,syed modi international demoted to super 100 from super 300 under new bwf reforms
+bow_unigram,random_forest,sports,politics,‘clocked’ by a nightclub bouncer and having to apologise for it – harry brook’s embarrassment is complete
+bow_unigram,random_forest,politics,sports,modi mantra now resonates world over: yogi adityanath
+bow_unigram,random_forest,sports,politics,chelsea appointing liam rosenior is a landmark moment for black managers
+bow_unigram,random_forest,sports,politics,"why cyclists put on nasal strips, as important a part of cyclist’s gear as the helmet and shades"
+bow_unigram,knn,politics,sports,7
+bow_unigram,knn,politics,sports,sri lanka: sjb's sajith premadasa nominated for interim presidency
+bow_unigram,knn,sports,politics,"‘if they call, i will be ready’: sprint legend usain bolt might return at the 2028 la olympics for cricket"
+bow_unigram,knn,sports,politics,"v srinivasan, pt usha’s husband and ‘backbone’, dies aged 67: ‘took care of me like i was his daughter,’ says asian games medallist tintu luka"
+bow_unigram,knn,politics,sports,explained: why majority governments are holding floor tests
+bow_unigram,knn,politics,sports,9
+bow_unigram,knn,politics,sports,1
+bow_unigram,knn,sports,politics,"‘gukesh’s opponents face pressure as well, just not as much as him,’ says coach grzegorz gajewski"
+bow_unigram,knn,sports,politics,"used soft drink bottles being refilled as waste-management procedure, not for re-sale, says ddca in response to viral video"
+bow_unigram,knn,sports,politics,javelin thrower sachin yadav included in rtp of athletics integrity unit
+bow_unigram,knn,sports,politics,tearful lebron james keeps retirement talk simmering in possible cleveland farewell
+bow_unigram,knn,politics,sports,11
+bow_unigram,knn,sports,politics,daniel naroditsky’s autopsy reveals cause of death: popular streamer died of abnormal heartbeat
+bow_unigram,knn,sports,politics,"daniel naroditsky had multiple drugs in system at time of death, toxicology report says"
+bow_unigram,knn,politics,sports,6
+bow_unigram,knn,sports,politics,how the chinese have approached the puzzle of the unbeatable an se-young
+bow_unigram,knn,sports,politics,bangladesh sports advisor: ‘team will not play in india in any circumstances’
+bow_unigram,knn,politics,sports,"sp-sbsp splitsville on the anvil, who’ll cut loose first"
+bow_unigram,knn,politics,sports,modi mantra now resonates world over: yogi adityanath
+tfidf_unigram,decision_tree,politics,sports,7
+tfidf_unigram,decision_tree,politics,sports,'gujarat won't allow patkar entry': shah amid buzz of aap plans
+tfidf_unigram,decision_tree,politics,sports,"jharkhand governor in delhi, jmm cries foul"
+tfidf_unigram,decision_tree,politics,sports,sri lanka: sjb's sajith premadasa nominated for interim presidency
+tfidf_unigram,decision_tree,politics,sports,"monsoon session over, india focuses on war plan ahead of mumbai meet"
+tfidf_unigram,decision_tree,politics,sports,ham: remark backing any nitish return to nda 'misinterpreted'
+tfidf_unigram,decision_tree,politics,sports,"govt flats to rohingya refugees trigger row, home ministry clarifies"
+tfidf_unigram,decision_tree,politics,sports,nitish kumar: running strong despite twists and turns
+tfidf_unigram,decision_tree,politics,sports,explained: why majority governments are holding floor tests
+tfidf_unigram,decision_tree,politics,sports,brs to oppose uniform civil code bill: kcr
+tfidf_unigram,decision_tree,politics,sports,"rohingya trying to use assam as transit state to sneak into delhi, kashmir: himanta biswa sarma"
+tfidf_unigram,decision_tree,politics,sports,9
+tfidf_unigram,decision_tree,politics,sports,"bihar: first in 30 years, md shahabuddin's kin out of rjd panels"
+tfidf_unigram,decision_tree,politics,sports,will seek public opinion on alliance's new logo: uddhav thackeray
+tfidf_unigram,decision_tree,politics,sports,"real loot is in sale of red tomatoes, cylinders: ashok gehlot"
+tfidf_unigram,decision_tree,politics,sports,maya hits out at centre over pfi ban
+tfidf_unigram,decision_tree,politics,sports,1
+tfidf_unigram,decision_tree,politics,sports,"government: don't agree with press freedom index, methodology questionable"
+tfidf_unigram,decision_tree,politics,sports,sachin pilot keeps alive suspense on next move
+tfidf_unigram,decision_tree,politics,sports,"bommai, dks, other netas on temple run day before voting"
+tfidf_unigram,decision_tree,politics,sports,soren government in jharkhand to seek trust vote on monday to dispel 'uncertainty'
+tfidf_unigram,decision_tree,politics,sports,11
+tfidf_unigram,decision_tree,politics,sports,ajay maken unwilling to continue as congress's rajasthan in-charge
+tfidf_unigram,decision_tree,politics,sports,6
+tfidf_unigram,decision_tree,politics,sports,news
+tfidf_unigram,decision_tree,politics,sports,proceedings washed out for third day; irani hits out at rahul
+tfidf_unigram,decision_tree,sports,politics,"indian football restart: isl set to resume from feb 14, says sports minister; 4 clubs yet to commit"
+tfidf_unigram,decision_tree,politics,sports,"upset with ajit entry, shinde's mlas say 'will get half a bread instead of one now'"
+tfidf_unigram,decision_tree,politics,sports,"outgoing bihar speaker did not want a dalit to preside over house, says his deputy"
+tfidf_unigram,decision_tree,politics,sports,"border row: meeting in delhi achieved nothing, favoured karnataka, claims uddhav thackeray"
+tfidf_unigram,decision_tree,politics,sports,"an ed that promises to 'rule, not raid'"
+tfidf_unigram,decision_tree,politics,sports,4 cong mps suspended from ls for entire session as oppn continues to demand price rise debate
+tfidf_unigram,decision_tree,sports,politics,"after visits from rcb & rr, maharashtra cricket association pitch pune stadium for ipl 2026 matches"
+tfidf_unigram,decision_tree,politics,sports,win for edappadi palaniswami as sc upholds madras hc order on aiadmk leadership
+tfidf_unigram,decision_tree,politics,sports,how politics behind darbhanga aiims has delayed its construction
+tfidf_unigram,decision_tree,politics,sports,kerala: cpm makes covid hero shailaja reject magsaysay award
+tfidf_unigram,decision_tree,politics,sports,ys jagan mohan reddy calls n chandrababu naidu jilted power lover
+tfidf_unigram,decision_tree,politics,sports,aap govt will sponsor ayodhya trip of lord ram devotees if voted to power in gujarat: kejriwal
+tfidf_unigram,decision_tree,politics,sports,pre-planned strategy from treasury benches: priyanka chaturvedi on suspension of mps
+tfidf_unigram,decision_tree,politics,sports,"not just nitish kumar, former ally jitan ram manjhi also objects to opposition’s india name"
+tfidf_unigram,decision_tree,politics,sports,"tejashwi yadav: born with a silver spoon, earning his spurs"
+tfidf_unigram,decision_tree,politics,sports,india to contest elections together ‘as far as possible’
+tfidf_unigram,decision_tree,sports,politics,retro-sport: when fans flocked to russian house to watch india’s 1st chess grandmaster take on india’s 2nd gm
+tfidf_unigram,decision_tree,politics,sports,"major bengal cabinet, tmc organisational reshuffle in offing"
+tfidf_unigram,decision_tree,politics,sports,'jeetega bharat' tagline for opposition alliance india
+tfidf_unigram,decision_tree,sports,politics,‘they’re not party animals’: stuart broad rubbishes claims about england’s ‘drinking culture’ after 1-4 ashes drubbing
+tfidf_unigram,decision_tree,politics,sports,how odisha train accident got politicised
+tfidf_unigram,decision_tree,politics,sports,criteria and frameworks are being decided for implementation of guarantees: priyank kharge
+tfidf_unigram,decision_tree,politics,sports,why ‘mullah mulayam’ tag didn’t hurt
+tfidf_unigram,decision_tree,sports,politics,syed modi international demoted to super 100 from super 300 under new bwf reforms
+tfidf_unigram,decision_tree,politics,sports,time has come to become 'ruler society': mayawati's call to bahujan samaj
+tfidf_unigram,decision_tree,politics,sports,"5 mps of cpi, cpm to visit strife-torn manipur for 3 days to assess situation"
+tfidf_unigram,decision_tree,politics,sports,modi mantra now resonates world over: yogi adityanath
+tfidf_unigram,decision_tree,politics,sports,will tejashwi yadav act against nitish kumar-baiter rjd mla sudhakar singh
+tfidf_unigram,decision_tree,politics,sports,"boost for uddhav thackeray, hc rules in favour of rutuja latke, pulls up bmc"
+tfidf_unigram,decision_tree,politics,sports,"rajasthan: sachin pilot takes a dig at ashok gehlot, says rahul gandhi's praise shouldn't upset anyone"
+tfidf_unigram,decision_tree,politics,sports,"for old guard, a make-or-break battle in rajasthan, madhya pradesh"
+tfidf_unigram,decision_tree,politics,sports,bihar: is nitish kumar set for another u-turn
+tfidf_unigram,decision_tree,politics,sports,over 1800 ngos' fcra licences cancelled in 3 yrs: government
+tfidf_unigram,random_forest,politics,sports,"monsoon session over, india focuses on war plan ahead of mumbai meet"
+tfidf_unigram,random_forest,sports,politics,‘i tell myself i’m not that important’: kl rahul opens up on retirement and injury battles
+tfidf_unigram,random_forest,sports,politics,"inside sanju samson’s childhood: fisherman grandfather’s wisdom, kerala sea and a village that believed"
+tfidf_unigram,random_forest,sports,politics,"used soft drink bottles being refilled as waste-management procedure, not for re-sale, says ddca in response to viral video"
+tfidf_unigram,random_forest,sports,politics,all-rounder shivam dube taking batting lessons into bowling
+tfidf_unigram,random_forest,sports,politics,"isl to be streamed on fancode, question remains over television broadcaster"
+tfidf_unigram,random_forest,sports,politics,javelin thrower sachin yadav included in rtp of athletics integrity unit
+tfidf_unigram,random_forest,sports,politics,tearful lebron james keeps retirement talk simmering in possible cleveland farewell
+tfidf_unigram,random_forest,sports,politics,daniel naroditsky’s autopsy reveals cause of death: popular streamer died of abnormal heartbeat
+tfidf_unigram,random_forest,sports,politics,"daniel naroditsky had multiple drugs in system at time of death, toxicology report says"
+tfidf_unigram,random_forest,sports,politics,how the chinese have approached the puzzle of the unbeatable an se-young
+tfidf_unigram,random_forest,sports,politics,"move over, beth harmon: new documentary on judit polgar details the gambits that shaped a queen"
+tfidf_unigram,random_forest,sports,politics,‘i prefer arshdeep over harshit in any circumstances’: robin uthappa
+tfidf_unigram,random_forest,sports,politics,10 years of bumrah | from jet lag to centre stage: the night jasprit bumrah announced himself
+tfidf_unigram,random_forest,politics,sports,india to contest elections together ‘as far as possible’
+tfidf_unigram,random_forest,sports,politics,syed modi international demoted to super 100 from super 300 under new bwf reforms
+tfidf_unigram,random_forest,sports,politics,‘clocked’ by a nightclub bouncer and having to apologise for it – harry brook’s embarrassment is complete
+tfidf_unigram,random_forest,politics,sports,modi mantra now resonates world over: yogi adityanath
+tfidf_unigram,random_forest,sports,politics,chelsea appointing liam rosenior is a landmark moment for black managers
+tfidf_unigram,knn,politics,sports,7
+tfidf_unigram,knn,politics,sports,sri lanka: sjb's sajith premadasa nominated for interim presidency
+tfidf_unigram,knn,sports,politics,"‘people often ask why is he batting so low’: kl rahul’s unique ability helps him don odi no. 6 role, says irfan pathan"
+tfidf_unigram,knn,politics,sports,"congress, bjp eye cm hat, k chandrashekar rao aims for hat-trick"
+tfidf_unigram,knn,sports,politics,snehit suravajjula saves six match points to reach pre-quarters; indian finalist assured in mixed doubles
+tfidf_unigram,knn,sports,politics,"yui susaki’s india mission: some light tourism, eat butter chicken and scope out indian wrestlers"
+tfidf_unigram,knn,politics,sports,9
+tfidf_unigram,knn,politics,sports,1
+tfidf_unigram,knn,sports,politics,legendary ajax football coach kovacs revealed as communist secret police informant
+tfidf_unigram,knn,sports,politics,"used soft drink bottles being refilled as waste-management procedure, not for re-sale, says ddca in response to viral video"
+tfidf_unigram,knn,sports,politics,tearful lebron james keeps retirement talk simmering in possible cleveland farewell
+tfidf_unigram,knn,politics,sports,11
+tfidf_unigram,knn,sports,politics,daniel naroditsky’s autopsy reveals cause of death: popular streamer died of abnormal heartbeat
+tfidf_unigram,knn,sports,politics,"daniel naroditsky had multiple drugs in system at time of death, toxicology report says"
+tfidf_unigram,knn,politics,sports,6
+tfidf_unigram,knn,politics,sports,"sp-sbsp splitsville on the anvil, who’ll cut loose first"
+tfidf_unigram,knn,sports,politics,why does delhi monopolise major sporting events even as pollution and player welfare are always genuine concerns
+tfidf_unigram,knn,sports,politics,"why the indian team will be tough to read this world cup, according to morne morkel"
+tfidf_unigram,knn,sports,politics,"new year, new rules: national sports governance act to partially come into effect from jan 1"
+tfidf_unigram,knn,politics,sports,how odisha train accident got politicised
+ngram_count_1_2,decision_tree,politics,sports,7
+ngram_count_1_2,decision_tree,politics,sports,'gujarat won't allow patkar entry': shah amid buzz of aap plans
+ngram_count_1_2,decision_tree,politics,sports,"jharkhand governor in delhi, jmm cries foul"
+ngram_count_1_2,decision_tree,politics,sports,sri lanka: sjb's sajith premadasa nominated for interim presidency
+ngram_count_1_2,decision_tree,politics,sports,"monsoon session over, india focuses on war plan ahead of mumbai meet"
+ngram_count_1_2,decision_tree,politics,sports,ham: remark backing any nitish return to nda 'misinterpreted'
+ngram_count_1_2,decision_tree,politics,sports,"govt flats to rohingya refugees trigger row, home ministry clarifies"
+ngram_count_1_2,decision_tree,politics,sports,nitish kumar: running strong despite twists and turns
+ngram_count_1_2,decision_tree,politics,sports,"sachin pilot begins 5-day yatra against ashok gehlot ‘inaction’ over paper leaks, graft"
+ngram_count_1_2,decision_tree,politics,sports,explained: why majority governments are holding floor tests
+ngram_count_1_2,decision_tree,politics,sports,brs to oppose uniform civil code bill: kcr
+ngram_count_1_2,decision_tree,politics,sports,"rohingya trying to use assam as transit state to sneak into delhi, kashmir: himanta biswa sarma"
+ngram_count_1_2,decision_tree,politics,sports,9
+ngram_count_1_2,decision_tree,politics,sports,"bihar: first in 30 years, md shahabuddin's kin out of rjd panels"
+ngram_count_1_2,decision_tree,politics,sports,will seek public opinion on alliance's new logo: uddhav thackeray
+ngram_count_1_2,decision_tree,politics,sports,"real loot is in sale of red tomatoes, cylinders: ashok gehlot"
+ngram_count_1_2,decision_tree,politics,sports,maya hits out at centre over pfi ban
+ngram_count_1_2,decision_tree,politics,sports,1
+ngram_count_1_2,decision_tree,politics,sports,how mamata banerjee changed her tune over support to droupadi murmu in the midst of presidential election
+ngram_count_1_2,decision_tree,politics,sports,"government: don't agree with press freedom index, methodology questionable"
+ngram_count_1_2,decision_tree,politics,sports,sachin pilot keeps alive suspense on next move
+ngram_count_1_2,decision_tree,politics,sports,"bommai, dks, other netas on temple run day before voting"
+ngram_count_1_2,decision_tree,politics,sports,soren government in jharkhand to seek trust vote on monday to dispel 'uncertainty'
+ngram_count_1_2,decision_tree,politics,sports,11
+ngram_count_1_2,decision_tree,politics,sports,ajay maken unwilling to continue as congress's rajasthan in-charge
+ngram_count_1_2,decision_tree,politics,sports,6
+ngram_count_1_2,decision_tree,politics,sports,news
+ngram_count_1_2,decision_tree,politics,sports,proceedings washed out for third day; irani hits out at rahul
+ngram_count_1_2,decision_tree,sports,politics,"indian football restart: isl set to resume from feb 14, says sports minister; 4 clubs yet to commit"
+ngram_count_1_2,decision_tree,politics,sports,"upset with ajit entry, shinde's mlas say 'will get half a bread instead of one now'"
+ngram_count_1_2,decision_tree,politics,sports,"outgoing bihar speaker did not want a dalit to preside over house, says his deputy"
+ngram_count_1_2,decision_tree,politics,sports,"border row: meeting in delhi achieved nothing, favoured karnataka, claims uddhav thackeray"
+ngram_count_1_2,decision_tree,politics,sports,"an ed that promises to 'rule, not raid'"
+ngram_count_1_2,decision_tree,politics,sports,4 cong mps suspended from ls for entire session as oppn continues to demand price rise debate
+ngram_count_1_2,decision_tree,sports,politics,"after visits from rcb & rr, maharashtra cricket association pitch pune stadium for ipl 2026 matches"
+ngram_count_1_2,decision_tree,politics,sports,win for edappadi palaniswami as sc upholds madras hc order on aiadmk leadership
+ngram_count_1_2,decision_tree,politics,sports,how politics behind darbhanga aiims has delayed its construction
+ngram_count_1_2,decision_tree,politics,sports,kerala: cpm makes covid hero shailaja reject magsaysay award
+ngram_count_1_2,decision_tree,politics,sports,ys jagan mohan reddy calls n chandrababu naidu jilted power lover
+ngram_count_1_2,decision_tree,politics,sports,aap govt will sponsor ayodhya trip of lord ram devotees if voted to power in gujarat: kejriwal
+ngram_count_1_2,decision_tree,politics,sports,pre-planned strategy from treasury benches: priyanka chaturvedi on suspension of mps
+ngram_count_1_2,decision_tree,politics,sports,"not just nitish kumar, former ally jitan ram manjhi also objects to opposition’s india name"
+ngram_count_1_2,decision_tree,politics,sports,"tejashwi yadav: born with a silver spoon, earning his spurs"
+ngram_count_1_2,decision_tree,politics,sports,india to contest elections together ‘as far as possible’
+ngram_count_1_2,decision_tree,sports,politics,retro-sport: when fans flocked to russian house to watch india’s 1st chess grandmaster take on india’s 2nd gm
+ngram_count_1_2,decision_tree,politics,sports,"major bengal cabinet, tmc organisational reshuffle in offing"
+ngram_count_1_2,decision_tree,politics,sports,'jeetega bharat' tagline for opposition alliance india
+ngram_count_1_2,decision_tree,sports,politics,‘they’re not party animals’: stuart broad rubbishes claims about england’s ‘drinking culture’ after 1-4 ashes drubbing
+ngram_count_1_2,decision_tree,politics,sports,"uddhav thackeray picks 3 symbols, but none on election commission's free list"
+ngram_count_1_2,decision_tree,politics,sports,how odisha train accident got politicised
+ngram_count_1_2,decision_tree,politics,sports,why ‘mullah mulayam’ tag didn’t hurt
+ngram_count_1_2,decision_tree,sports,politics,syed modi international demoted to super 100 from super 300 under new bwf reforms
+ngram_count_1_2,decision_tree,politics,sports,time has come to become 'ruler society': mayawati's call to bahujan samaj
+ngram_count_1_2,decision_tree,politics,sports,"5 mps of cpi, cpm to visit strife-torn manipur for 3 days to assess situation"
+ngram_count_1_2,decision_tree,politics,sports,modi mantra now resonates world over: yogi adityanath
+ngram_count_1_2,decision_tree,politics,sports,will tejashwi yadav act against nitish kumar-baiter rjd mla sudhakar singh
+ngram_count_1_2,decision_tree,politics,sports,"boost for uddhav thackeray, hc rules in favour of rutuja latke, pulls up bmc"
+ngram_count_1_2,decision_tree,politics,sports,"rajasthan: sachin pilot takes a dig at ashok gehlot, says rahul gandhi's praise shouldn't upset anyone"
+ngram_count_1_2,decision_tree,politics,sports,"for old guard, a make-or-break battle in rajasthan, madhya pradesh"
+ngram_count_1_2,decision_tree,politics,sports,bihar: is nitish kumar set for another u-turn
+ngram_count_1_2,decision_tree,politics,sports,over 1800 ngos' fcra licences cancelled in 3 yrs: government
+ngram_count_1_2,random_forest,politics,sports,"monsoon session over, india focuses on war plan ahead of mumbai meet"
+ngram_count_1_2,random_forest,sports,politics,‘i tell myself i’m not that important’: kl rahul opens up on retirement and injury battles
+ngram_count_1_2,random_forest,sports,politics,"inside sanju samson’s childhood: fisherman grandfather’s wisdom, kerala sea and a village that believed"
+ngram_count_1_2,random_forest,sports,politics,"used soft drink bottles being refilled as waste-management procedure, not for re-sale, says ddca in response to viral video"
+ngram_count_1_2,random_forest,sports,politics,all-rounder shivam dube taking batting lessons into bowling
+ngram_count_1_2,random_forest,sports,politics,"isl to be streamed on fancode, question remains over television broadcaster"
+ngram_count_1_2,random_forest,sports,politics,javelin thrower sachin yadav included in rtp of athletics integrity unit
+ngram_count_1_2,random_forest,sports,politics,tearful lebron james keeps retirement talk simmering in possible cleveland farewell
+ngram_count_1_2,random_forest,sports,politics,daniel naroditsky’s autopsy reveals cause of death: popular streamer died of abnormal heartbeat
+ngram_count_1_2,random_forest,sports,politics,"daniel naroditsky had multiple drugs in system at time of death, toxicology report says"
+ngram_count_1_2,random_forest,sports,politics,how the chinese have approached the puzzle of the unbeatable an se-young
+ngram_count_1_2,random_forest,sports,politics,"move over, beth harmon: new documentary on judit polgar details the gambits that shaped a queen"
+ngram_count_1_2,random_forest,sports,politics,‘i prefer arshdeep over harshit in any circumstances’: robin uthappa
+ngram_count_1_2,random_forest,sports,politics,‘virat was compared with sachin and now gill is being compared to virat’: irfan pathan
+ngram_count_1_2,random_forest,sports,politics,10 years of bumrah | from jet lag to centre stage: the night jasprit bumrah announced himself
+ngram_count_1_2,random_forest,politics,sports,india to contest elections together ‘as far as possible’
+ngram_count_1_2,random_forest,sports,politics,syed modi international demoted to super 100 from super 300 under new bwf reforms
+ngram_count_1_2,random_forest,sports,politics,chelsea appointing liam rosenior is a landmark moment for black managers
+ngram_count_1_2,random_forest,sports,politics,"why cyclists put on nasal strips, as important a part of cyclist’s gear as the helmet and shades"
+ngram_count_1_2,knn,politics,sports,7
+ngram_count_1_2,knn,politics,sports,sri lanka: sjb's sajith premadasa nominated for interim presidency
+ngram_count_1_2,knn,sports,politics,"‘if they call, i will be ready’: sprint legend usain bolt might return at the 2028 la olympics for cricket"
+ngram_count_1_2,knn,politics,sports,explained: why majority governments are holding floor tests
+ngram_count_1_2,knn,politics,sports,9
+ngram_count_1_2,knn,politics,sports,1
+ngram_count_1_2,knn,sports,politics,"used soft drink bottles being refilled as waste-management procedure, not for re-sale, says ddca in response to viral video"
+ngram_count_1_2,knn,sports,politics,javelin thrower sachin yadav included in rtp of athletics integrity unit
+ngram_count_1_2,knn,sports,politics,tearful lebron james keeps retirement talk simmering in possible cleveland farewell
+ngram_count_1_2,knn,politics,sports,11
+ngram_count_1_2,knn,sports,politics,daniel naroditsky’s autopsy reveals cause of death: popular streamer died of abnormal heartbeat
+ngram_count_1_2,knn,sports,politics,"daniel naroditsky had multiple drugs in system at time of death, toxicology report says"
+ngram_count_1_2,knn,politics,sports,6
+ngram_count_1_2,knn,sports,politics,how the chinese have approached the puzzle of the unbeatable an se-young
+ngram_count_1_2,knn,sports,politics,bangladesh sports advisor: ‘team will not play in india in any circumstances’
+ngram_count_1_2,knn,politics,sports,"sp-sbsp splitsville on the anvil, who’ll cut loose first"
+ngram_count_1_2,knn,sports,politics,why does delhi monopolise major sporting events even as pollution and player welfare are always genuine concerns
+ngram_count_1_2,knn,politics,sports,why ‘mullah mulayam’ tag didn’t hurt
+ngram_count_1_2,knn,politics,sports,modi mantra now resonates world over: yogi adityanath

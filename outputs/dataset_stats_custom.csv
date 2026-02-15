@@ -1,0 +1,8 @@
+metric,value
+rows_before_cleaning,3135.0
+rows_after_cleaning,2893.0
+rows_removed,242.0
+politics_count_after_cleaning,1462.0
+sports_count_after_cleaning,1431.0
+avg_tokens_per_headline,12.242654683719323
+median_tokens_per_headline,12.0

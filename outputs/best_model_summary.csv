@@ -1,0 +1,2 @@
+best_feature_method,best_classifier,accuracy,precision_sports,recall_sports,f1_sports
+ngram_count_1_2,knn,0.9671848013816926,0.9651567944250871,0.9685314685314685,0.9668411867364747
